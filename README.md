@@ -11,8 +11,10 @@ You can do a "http_it -h" from the command line to see full list. Basically you 
 
 EXAMPLE USAGE
 -------------
-        1) In the command line, navigate to the directory you want to share via HTTP
+        1) Install the gem from rubygems.org: gem install http_it
 
-        2) Type http_it to invoke the HTTP server on this directory (you can also invoke http_it by typing hi)
+        2) On the command line, navigate to the directory you want to share via HTTP
 
-        3) That's it. CTRL-C to stop. Live long and prosper.
+        3) Type http_it to invoke the HTTP server on this directory (you can also invoke http_it by typing hi)
+
+        4) That's it. CTRL-C to stop. Live long and prosper.
